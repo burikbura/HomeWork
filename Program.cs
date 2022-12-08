@@ -1,5 +1,5 @@
 ﻿//task54
-/*
+
 int [,] Create2dArray() // создание 2-х мерного массива
 {
     Console.Write("Input numbers of rows: ");
@@ -130,5 +130,5 @@ for (int i = 1; i < sumArray.Length; i++)
     }
 }
 
-*/
+
 
